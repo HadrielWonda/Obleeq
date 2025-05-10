@@ -15,7 +15,7 @@ Implemented based on Unity 2018.3.1f1, OpenCV plugin needs to be purchased separ
    * ​**Manual mapping**: Set the point size and line thickness, and follow the instructions below.
 7. Save the project. The project saves the image path, model path, camera parameters, offset, point size, and line thickness.
 
-https://github.com/user-attachments/assets/9f3b726d-0b7c-4e7b-9661-b3149e39b849
+
 
 ## Table of Contents
 - [Obleeq - Automatic Texture Mapping Software for Oblique Photogrammetry Models](#Obleeq---automatic-texture-mapping-software-for-oblique-photogrammetry-models)
